@@ -19,7 +19,8 @@
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20.*"
     ],
     "primaryAddress": "mc.comugamers.com",
     "primaryColor": "#026694",
@@ -35,7 +36,7 @@
     ],
     "socials": {
         "twitter": "ComuGamers",
-        "discord": "https://discord.com/invite/D4YRQ9R",
+        "discord": "https://discord.com/invite/comugamers",
         "youtube": "UCEThoQ97WEDd4cVUnv3gYjw",
         "instagram": "comugamers",
         "facebook": "ComuGamers",
